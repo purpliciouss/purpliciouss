@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @purpliciouss
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning C++ and C#
+- 👀 I’m interested in game development and ai
+- 🌱 I’m currently learning python and ai
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 📫 How to reach me : gurelsevval10@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: 
+- ⚡ Fun fact: im just a girl
 
 <!---
 purpliciouss/purpliciouss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

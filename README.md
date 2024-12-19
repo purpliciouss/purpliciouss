@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @purpliciouss
 - 👀 I’m interested in game development and ai
-- 🌱 I’m currently learning python and ai
+- 🌱 I’m currently learning python and machine learning 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me : gurelsevval10@gmail.com
 - 😄 Pronouns: she/her

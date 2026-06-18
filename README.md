@@ -7,14 +7,14 @@
 
 📩 contact me: gurelsevval10@gmail.com
 
-## 🗂️ Projects
+## 🗂️ projects
 
-| Project | Description |
+| project | description |
 |--------|-------------|
-| 🌟  Autonomous Cargo UAV | Developed an autonomous UAV capable of cargo delivery and area inspection. |
-| 🌸  Object Detection | Training YOLOv8 models for object detection using aerial imagery. |
-| 🌀  Mathematics & Python | Implementing linear algebra, calculus, and visualization projects in Python. |
-
+| 🌟  autonomous cargo UAV | developed an autonomous UAV capable of cargo delivery and area inspection. |
+| 🌸  object detection | training YOLOv8 models for object detection using aerial imagery. |
+| 🌀  mathematics & python | implementing linear algebra, calculus, and visualization projects in Python. |
+| 🎮  game development | making a overly cute suika game with my best friend. |
 
 <!---
 purpliciouss/purpliciouss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

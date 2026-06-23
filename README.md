@@ -16,6 +16,11 @@
 | 🌀  mathematics & python | implementing linear algebra, calculus, and visualization projects in Python. |
 | 🎮  game development | making an overly cute suika game with my best friend. |
 
+## 💾 fav repos
+
+| repo | description |
+|--------|-------------|
+| 🕹️ gesture recognition | face and hand gestures recognition with using opencv and mediapipe. |
 <!---
 purpliciouss/purpliciouss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

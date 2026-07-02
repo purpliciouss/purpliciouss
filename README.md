@@ -1,7 +1,7 @@
 <img src="hi-im-sevval.jpg" width="50%"> <img width="20%" alt="output-onlinegiftools" src="https://github.com/user-attachments/assets/849fc37a-85fe-4704-8c0f-1c7bb78a274b" /> 
 
 ##  🎀  about me
-🌼 turkish girl from istanbul, turkey   <img width="10%" alt="pusheen-removebg-preview" src="https://github.com/user-attachments/assets/67a00441-c08a-410d-9d81-ea746e5c3589" />
+🌼 turkish girl from istanbul, turkey                    <img width="10%" alt="pusheen-removebg-preview" src="https://github.com/user-attachments/assets/67a00441-c08a-410d-9d81-ea746e5c3589" />
 
 🎓 mathematical engineering @ istinye university
 

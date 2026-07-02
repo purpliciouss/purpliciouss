@@ -1,5 +1,5 @@
 <img src="hi-im-sevval.jpg" width="50%">
-https://i.pinimg.com/originals/2b/71/d2/2b71d287ad48566ba5ba19bad0d55ff2.gif 
+![Cute cat](https://i.pinimg.com/originals/2b/71/d2/2b71d287ad48566ba5ba19bad0d55ff2.gif)
 
 ##  🎀  about me
 🌼 turkish girl from istanbul, turkey

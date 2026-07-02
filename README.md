@@ -1,6 +1,6 @@
 <img src="hi-im-sevval.jpg" width="50%">
 <img width="340" height="290" alt="Party Dance GIF - Party Dance Dancing - Discover   Share GIFs" src="https://github.com/user-attachments/assets/3e244054-677f-463b-8f2d-3d82dc2e986a" />
-
+<img width="480" height="480" alt="pusheen" src="https://github.com/user-attachments/assets/d0cd8ad5-a71d-4b7c-8fd6-51bb85b23620" />
 
 ##  🎀  about me
 🌼 turkish girl from istanbul, turkey

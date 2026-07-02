@@ -4,7 +4,7 @@
 🌼 turkish girl from istanbul, turkey  
 
 <p>
-🎓 mathematical engineering @ istinye university <img src="https://github.com/user-attachments/assets/67a00441-c08a-410d-9d81-ea746e5c3589" width="100" align="middle">
+🎓 mathematical engineering @ istinye university <img src="https://github.com/user-attachments/assets/67a00441-c08a-410d-9d81-ea746e5c3589" width="100" align="right middle">
 </p>
 
 📩 contact me: gurelsevval10@gmail.com

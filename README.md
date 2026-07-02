@@ -1,5 +1,6 @@
 <img src="hi-im-sevval.jpg" width="50%">
-![Cute cat](https://i.pinimg.com/originals/2b/71/d2/2b71d287ad48566ba5ba19bad0d55ff2.gif)
+<img width="340" height="290" alt="Party Dance GIF - Party Dance Dancing - Discover   Share GIFs" src="https://github.com/user-attachments/assets/3e244054-677f-463b-8f2d-3d82dc2e986a" />
+
 
 ##  🎀  about me
 🌼 turkish girl from istanbul, turkey
